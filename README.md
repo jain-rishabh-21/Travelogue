@@ -1,7 +1,7 @@
 # YELPCAMP WEBSITE
 This is a website where you can add new campgrounds, comment and review the capmgrounds and visit the place of your choice.
 
-##Introduction
+## Introduction
 
 The website is built using MEN
 
@@ -10,7 +10,7 @@ The website is built using MEN
 * N     - Node.JS
 
 
-# Technologies Used :
+## Technologies Used :
 * HTML
 * CSS
 * BootStrap
