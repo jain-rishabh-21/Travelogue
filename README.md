@@ -1,4 +1,4 @@
-# YELPCAMP WEBSITE
+# TRAVELOGUE WEBSITE
 This is a website where you can add new campgrounds, comment and review the capmgrounds and visit the place of your choice.
 
 ## Introduction
